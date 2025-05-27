@@ -12,8 +12,12 @@ El álgebra de bloques es una herramienta fundamental en el estudio de sistemas 
 Ejemplo:  
 $\[ Y(s) = U(s) \cdot G(s) \]$
 
+[![1.png](https://i.postimg.cc/90RwPyGX/1.png)](https://postimg.cc/9w2fCR8s)
+
 ### 1.2. Flechas  
 🔑 *Definición:* Las flechas indican la dirección del flujo de señales dentro del diagrama. Representan entradas y salidas de los bloques y muestran la propiedad unilateral del sistema.  
+
+[![222.png](https://i.postimg.cc/50vm5H8V/222.png)](https://postimg.cc/FdrcNHPW)
 
 ### 1.3. Punto Suma  
 🔑 *Definición:* Realiza operaciones de suma o resta entre señales. Las señales deben tener las mismas dimensiones y unidades.  
