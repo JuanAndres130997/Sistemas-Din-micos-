@@ -12,14 +12,23 @@ El álgebra de bloques es una herramienta fundamental en el estudio de sistemas 
 Ejemplo:  
 $\[ Y(s) = U(s) \cdot G(s) \]$
 
+[![1.png](https://i.postimg.cc/90RwPyGX/1.png)](https://postimg.cc/9w2fCR8s)
+
 ### 1.2. Flechas  
 🔑 *Definición:* Las flechas indican la dirección del flujo de señales dentro del diagrama. Representan entradas y salidas de los bloques y muestran la propiedad unilateral del sistema.  
+
+[![222.png](https://i.postimg.cc/50vm5H8V/222.png)](https://postimg.cc/FdrcNHPW)
 
 ### 1.3. Punto Suma  
 🔑 *Definición:* Realiza operaciones de suma o resta entre señales. Las señales deben tener las mismas dimensiones y unidades.  
 
+[![3.png](https://i.postimg.cc/0N1GkkLX/3.png)](https://postimg.cc/75XJXkPS)
+
 ### 1.4. Punto de Ramificación  
 🔑 *Definición:* Un punto donde una señal se divide y se envía a múltiples bloques o puntos de suma de manera concurrente.  
+
+[![4.png](https://i.postimg.cc/D0wHxd6G/4.png)](https://postimg.cc/9RsLM9vX)
+
 
 ---
 
@@ -28,6 +37,10 @@ $\[ Y(s) = U(s) \cdot G(s) \]$
 ### 2.1. Bloques en Cascada  
 Cuando dos bloques están conectados en serie (cascada), la salida del primero es la entrada del segundo. La función de transferencia total es el producto de las funciones individuales:  
 $\[ Y(s) = U(s) \cdot G_1(s) \cdot G_2(s) \]$
+
+[![primero.png](https://i.postimg.cc/DyZmX9rv/primero.png)](https://postimg.cc/dDbqMSNp)
+
+[![segundo.png](https://i.postimg.cc/8PQJqKMN/segundo.png)](https://postimg.cc/PNy5DMSR)
 
 ### 2.2. Lazos de Realimentación  
 💡 **Ejemplo 1:** Lazo de realimentación positivo  
